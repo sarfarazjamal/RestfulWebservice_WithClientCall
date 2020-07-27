@@ -1,7 +1,10 @@
 # RestfulWebservice_WithClientCall
 
 POST Request format:
+
 http://localhost:9090/BookMyShow/Service/bookingShow
+
+
 {
     "userName": "jamal",
     "showName": "3 Ediot",
