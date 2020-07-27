@@ -1,0 +1,3 @@
+com\jamal\spring\rest\api\model\BookRequest.class
+com\jamal\spring\rest\api\repository\BookMyShowRepository.class
+com\jamal\spring\rest\api\BookMyShowApplication.class
